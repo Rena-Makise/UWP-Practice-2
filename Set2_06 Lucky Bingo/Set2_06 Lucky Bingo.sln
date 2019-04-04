@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set2_06 Lucky Bingo", "Set2_06 Lucky Bingo\Set2_06 Lucky Bingo.csproj", "{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|ARM.Build.0 = Debug|ARM
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|x64.ActiveCfg = Debug|x64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|x64.Build.0 = Debug|x64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|x64.Deploy.0 = Debug|x64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|x86.ActiveCfg = Debug|x86
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|x86.Build.0 = Debug|x86
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Debug|x86.Deploy.0 = Debug|x86
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|ARM.ActiveCfg = Release|ARM
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|ARM.Build.0 = Release|ARM
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|ARM.Deploy.0 = Release|ARM
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|ARM64.Build.0 = Release|ARM64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|ARM64.Deploy.0 = Release|ARM64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|x64.ActiveCfg = Release|x64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|x64.Build.0 = Release|x64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|x64.Deploy.0 = Release|x64
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|x86.ActiveCfg = Release|x86
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|x86.Build.0 = Release|x86
+		{24C18DB6-4DDF-42D4-BCDD-D15C061C559E}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A54B2429-47AE-4424-BB88-9E1CFD6FCC43}
+	EndGlobalSection
+EndGlobal
