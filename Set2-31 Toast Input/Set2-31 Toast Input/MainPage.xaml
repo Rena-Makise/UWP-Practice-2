@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Set2_31_Toast_Input.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Set2_31_Toast_Input"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.TopAppBar>
+        <CommandBar>
+            <AppBarButton Name="Add" Icon="Add" Click="Add_Click"/>
+        </CommandBar>
+    </Page.TopAppBar>
+    
+    <Grid>
+        <TimePicker Name="Occurs" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Page>
